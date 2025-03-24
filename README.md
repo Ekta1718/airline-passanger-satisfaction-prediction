@@ -61,8 +61,4 @@ The dataset includes passenger details and ratings on:
 - Implement deep learning for better predictions.
 - Develop a dashboard for interactive insights.
 
-## Contributors
-- **[Your Name]**
 
-## License
-This project is licensed under the **MIT License** — feel free to modify and distribute as per the license terms.
